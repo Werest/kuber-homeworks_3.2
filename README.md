@@ -30,19 +30,19 @@
 
 Проблема при выполнении установки, пришлось добавить функцию ожидания освобождения APT процесса.
 
-[\Werest\kuber-homeworks_3.2\IMGS\1.PNG](https://github.com/Werest/kuber-homeworks_3.2/blob/6b5df7e60c033f6d60be3656a9ee1f2adef3c938/IMGS/1.PNG)
+![\Werest\kuber-homeworks_3.2\IMGS\1.PNG](https://github.com/Werest/kuber-homeworks_3.2/blob/6b5df7e60c033f6d60be3656a9ee1f2adef3c938/IMGS/1.PNG)
 
 Master нода:
-[\Werest\kuber-homeworks_3.2\IMGS\2.PNG](https://github.com/Werest/kuber-homeworks_3.2/blob/6b5df7e60c033f6d60be3656a9ee1f2adef3c938/IMGS/2.PNG)
+![\Werest\kuber-homeworks_3.2\IMGS\2.PNG](https://github.com/Werest/kuber-homeworks_3.2/blob/6b5df7e60c033f6d60be3656a9ee1f2adef3c938/IMGS/2.PNG)
 
 Cloud Yandex:
-[\Werest\kuber-homeworks_3.2\IMGS\2.PNG](https://github.com/Werest/kuber-homeworks_3.2/blob/6b5df7e60c033f6d60be3656a9ee1f2adef3c938/IMGS/2.PNG)
+![\Werest\kuber-homeworks_3.2\IMGS\2.PNG](https://github.com/Werest/kuber-homeworks_3.2/blob/6b5df7e60c033f6d60be3656a9ee1f2adef3c938/IMGS/2.PNG)
 
-[\Werest\kuber-homeworks_3.2\IMGS\4.PNG](https://github.com/Werest/kuber-homeworks_3.2/blob/6b5df7e60c033f6d60be3656a9ee1f2adef3c938/IMGS/4.PNG)
+![\Werest\kuber-homeworks_3.2\IMGS\4.PNG](https://github.com/Werest/kuber-homeworks_3.2/blob/6b5df7e60c033f6d60be3656a9ee1f2adef3c938/IMGS/4.PNG)
 
-[\Werest\kuber-homeworks_3.2\IMGS\3.PNG](https://github.com/Werest/kuber-homeworks_3.2/blob/6b5df7e60c033f6d60be3656a9ee1f2adef3c938/IMGS/3.PNG)
+![\Werest\kuber-homeworks_3.2\IMGS\3.PNG](https://github.com/Werest/kuber-homeworks_3.2/blob/6b5df7e60c033f6d60be3656a9ee1f2adef3c938/IMGS/3.PNG)
 
-[\Werest\kuber-homeworks_3.2\IMGS\5.PNG](https://github.com/Werest/kuber-homeworks_3.2/blob/6b5df7e60c033f6d60be3656a9ee1f2adef3c938/IMGS/5.PNG)
+![\Werest\kuber-homeworks_3.2\IMGS\5.PNG](https://github.com/Werest/kuber-homeworks_3.2/blob/6b5df7e60c033f6d60be3656a9ee1f2adef3c938/IMGS/5.PNG)
 
 ---------------
 
