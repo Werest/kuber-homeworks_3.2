@@ -25,6 +25,27 @@
 3. Запуск etcd производить на мастере.
 4. Способ установки выбрать самостоятельно.
 
+---------------
+Способ установки - Terraform с sh скриптами.
+
+Проблема при выполнении установки, пришлось добавить функцию ожидания освобождения APT процесса.
+
+[\Werest\kuber-homeworks_3.2\IMGS\1.PNG](https://github.com/Werest/kuber-homeworks_3.2/blob/6b5df7e60c033f6d60be3656a9ee1f2adef3c938/IMGS/1.PNG)
+
+Master нода:
+[\Werest\kuber-homeworks_3.2\IMGS\2.PNG](https://github.com/Werest/kuber-homeworks_3.2/blob/6b5df7e60c033f6d60be3656a9ee1f2adef3c938/IMGS/2.PNG)
+
+Cloud Yandex:
+[\Werest\kuber-homeworks_3.2\IMGS\2.PNG](https://github.com/Werest/kuber-homeworks_3.2/blob/6b5df7e60c033f6d60be3656a9ee1f2adef3c938/IMGS/2.PNG)
+
+[\Werest\kuber-homeworks_3.2\IMGS\4.PNG](https://github.com/Werest/kuber-homeworks_3.2/blob/6b5df7e60c033f6d60be3656a9ee1f2adef3c938/IMGS/4.PNG)
+
+[\Werest\kuber-homeworks_3.2\IMGS\3.PNG](https://github.com/Werest/kuber-homeworks_3.2/blob/6b5df7e60c033f6d60be3656a9ee1f2adef3c938/IMGS/3.PNG)
+
+[\Werest\kuber-homeworks_3.2\IMGS\5.PNG](https://github.com/Werest/kuber-homeworks_3.2/blob/6b5df7e60c033f6d60be3656a9ee1f2adef3c938/IMGS/5.PNG)
+
+---------------
+
 ## Дополнительные задания (со звёздочкой)
 
 **Настоятельно рекомендуем выполнять все задания под звёздочкой.** Их выполнение поможет глубже разобраться в материале.   
